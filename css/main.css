@@ -48,15 +48,15 @@ nav{
   color: white;
   font-size: 15px;
   text-decoration: none;
+  padding-top: 30px;
 }
 .a-nav:hover {
 color: #18BC9C;
 }
-
-.model-nav{
-background: #18BC9C;
-border: 10px solid #18BC9C;  
-
+  
+.modal-green{
+  background: #18BC9C;
+  border: 10px solid #18BC9C; 
 }
 
 
